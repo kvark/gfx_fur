@@ -6,6 +6,7 @@ authors = ["Dzmitry Malyshau <kvarkus@gmail.com>"]
 [dependencies]
 log = "*"
 gfx = "0.6"
+gfx_phase = "0.3"
 
 ### For examples
 
